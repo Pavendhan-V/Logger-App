@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  Client.cpp
+  LoggerApp.cpp
+C:\Users\Pavendhan_V\source\repos\CppCLR_WinformsProjekt1\CppCLR_WinformsProjekt1\LoggerApp.h(4,10): fatal error C1083: Cannot open include file: 'opencv2/imgcodecs.hpp': No such file or directory
+  ProgramMain.cpp
+C:\Users\Pavendhan_V\source\repos\CppCLR_WinformsProjekt1\CppCLR_WinformsProjekt1\LoggerApp.h(4,10): fatal error C1083: Cannot open include file: 'opencv2/imgcodecs.hpp': No such file or directory
+  Form1.cpp
+  Generating Code...

@@ -1,0 +1,6 @@
+C:\Users\Pavendhan_V\source\repos\CppCLR_WinformsProjekt1\CppCLR_WinformsProjekt1\x64\Debug\CppCLR_WinformsProjekt1.Form1.resources
+C:\Users\Pavendhan_V\source\repos\CppCLR_WinformsProjekt1\CppCLR_WinformsProjekt1\x64\Debug\CppCLR_WinformsProjekt1.vcxproj.GenerateResource.cache
+C:\Users\Pavendhan_V\source\repos\CppCLR_WinformsProjekt1\CppCLR_WinformsProjekt1\x64\Debug\CppCLR_WinformsProjekt1.vcxproj.AssemblyReference.cache
+C:\Users\Pavendhan_V\source\repos\Logger-App\CppCLR_WinformsProjekt1\x64\Debug\CppCLR_WinformsProjekt1.vcxproj.AssemblyReference.cache
+C:\Users\Pavendhan_V\source\repos\Logger-App\CppCLR_WinformsProjekt1\x64\Debug\CppCLR_WinformsProjekt1.Form1.resources
+C:\Users\Pavendhan_V\source\repos\Logger-App\CppCLR_WinformsProjekt1\x64\Debug\CppCLR_WinformsProjekt1.vcxproj.GenerateResource.cache

@@ -1,0 +1,13 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (CppCLR_WinformsProjekt1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  pch.cpp
+  AssemblyInfo.cpp
+  Client.cpp
+  LoggerApp.cpp
+C:\Users\Pavendhan_V\source\repos\Logger-App\CppCLR_WinformsProjekt1\LoggerApp.cpp(43,14): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Pavendhan_V\source\repos\Logger-App\CppCLR_WinformsProjekt1\LoggerApp.cpp(47,14): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ProgramMain.cpp
+  Form1.cpp
+  Generating Code...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  CppCLR_WinformsProjekt1.vcxproj -> C:\Users\Pavendhan_V\source\repos\Logger-App\x64\Debug\LoggerApp.exe
